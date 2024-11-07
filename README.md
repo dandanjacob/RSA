@@ -1,2 +1,2 @@
 # RSA
-Implementação do algoritmo d criptografia RSA em python.
+Implementação do algoritmo de criptografia RSA em python.
