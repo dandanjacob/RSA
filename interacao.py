@@ -1,5 +1,5 @@
 mensagem_criptografada = "cole aqui sua mensagem criptografada"
-private_key_string = (1441, 5141)
+private_key_string = "digite aqui a sua chave privada recebida em papelzinho"
 
 # Converter a mensagem criptografada para uma lista de inteiros
 ciphertext_blocks = list ( map(int , mensagem_criptografada . split () )
