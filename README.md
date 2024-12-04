@@ -30,7 +30,7 @@ Este repositório contém uma implementação do algoritmo RSA para criptografia
 O notebook principal contém:
 - **Implementação completa do RSA:** Incluindo explicações detalhadas de cada etapa.
 
-### Arquivo Python Interativo (`decrypt_message.py`)
+### Arquivo Python Interativo (`interacao.py`)
 Este arquivo (`.py`) permite que os participantes da apresentação insiram suas chaves privadas para descriptografar as mensagens personalizadas enviadas.
 
 ---
